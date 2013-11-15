@@ -5,7 +5,9 @@ These HTML5 applications are designed for older versions of Blackberry.
 http://developer.blackberry.com/html5/
 
 To compile these applications:
+
 1. make sure the config.xml is correct
+
 2. create a zip archive of the contents of the app directory
 
    cd tipCalcApp; zip *
